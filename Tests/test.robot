@@ -20,7 +20,7 @@ Accessing testscouts.se
     close browser
 
 Clicking a link
-    [Documentation]             Trying to click a click click link
+    [Documentation]             Trying to click a link 
     [Tags]                      Test 2
     Begin web test
     click link                  xpath://*[@id="top-menu"]/li[1]/a
